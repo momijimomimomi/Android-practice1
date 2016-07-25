@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">test</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="height">身高 (cm)</string>
+    <string name="weight">體重 (kg)</string>
+	<string name="bmi_btn">計算BMI</string>
+	<string name="bmi_result">你的BMI值是</string>
+	<string name="homepage">首頁</string>
+	<string name="quit">離開</string>
+	<string name="report_name">BMI報告</string>
+</resources>

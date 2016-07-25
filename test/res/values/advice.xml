@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="advice_light">太瘦</string>
+    <string name="advice_average">中等</string>
+    <string name="advice_heavy">太重</string>
+    
+</resources>
